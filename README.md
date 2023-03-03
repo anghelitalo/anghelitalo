@@ -1,16 +1,15 @@
-### Hi there 👋
+## Angelica Lopez
+Experience as an SDET, domains E-commerce/testing web client-server, API, DevOps, expertise in manual testing, SDLC, and STLC. Excellent interpersonal skills, good analytical and communication skills.
 
-<!--
-**anghelitalo/anghelitalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Commands Linux used before
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Positions | Most Used |
+| ----------- | ----------- |
+| 1 | pwd  |
+| 2 | ls |
+| 3 | cd |
+| 4 | cp |
+| 5 | mv |
+
+
