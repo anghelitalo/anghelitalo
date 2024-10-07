@@ -1,6 +1,6 @@
 ### Hi, I´m Angelica!
 Software Engineer with +5 years of experience in development and test automation. Specialized in implementing testing frameworks, automating quality control processes, and creating end-to-end testing suites. <br/>
-Advanced skills in programming languages such as Java, C#, Python, and automation tools like Selenium, Appium, and JUnit. Dedicated to continuously improving QA processes and delivering high-quality software. <br/>
+Advanced skills in programming languages such as Java, C#, JS, and automation tools like Selenium, Playwright, Nightwatch, Robot framework and JUnit, TestNG. Dedicated to continuously improving QA processes and delivering high-quality software. <br/>
 Excellent interpersonal skills, good analytical and communication skills.<br/>
 
 ### 🌐 We can connect here:
